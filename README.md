@@ -3,7 +3,7 @@
 [GitHub](https://github.com/pypi-zedzhen/logger)
 
 ## Установка
-> pip install logger --index-url=pypi.zedzhen.ru
+> pip install logger --index-url=https://pypi.zedzhen.ru/simple
 
 ## Ограничения
 - Объекты которые вы хотите логировать, не должны содержать атрибут "_logger"\
